@@ -18,6 +18,15 @@ PHP
 Perl
 Rust
 swift
+julia
+lisp
+erlang
+haskell
+nord
+objective-C
+ocaml
+R
+typeScript
 ...
 
 
