@@ -1,10 +1,10 @@
 Programa que converte numeros de base decimal para binario, heaxadecimal e octal
 
 
-escrito em linguagem:
-C(ok)
-python(ok)
-pascal(fazendo)
+escrito nas seguintes linguagens:
+C - status: FINALIZADO
+python - status: FINALIZADO
+pascal - status: DESENVOLVENDO
 Lua
 Ruby
 Golang
@@ -30,5 +30,5 @@ typeScript
 ...
 
 
-entrada: numero qualquer inteiro na base decimal
-saida: o mesmo numero em binario(B), hexadecimal(H), octal(O)
+Entrada: numero qualquer inteiro na base decimal
+Saida: o mesmo numero em binario(B), hexadecimal(H), octal(O)
