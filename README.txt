@@ -5,7 +5,7 @@ escrito nas seguintes linguagens:
 C - status: FINALIZADO
 python - status: FINALIZADO
 pascal - status: FINALIZADO
-Golang
+Golang - status: DESENVOLVENDO
 Lua
 Ruby
 Fortran
