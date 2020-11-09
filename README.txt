@@ -4,10 +4,10 @@ Programa que converte numeros de base decimal para binario, heaxadecimal e octal
 escrito nas seguintes linguagens:
 C - status: FINALIZADO
 python - status: FINALIZADO
-pascal - status: DESENVOLVENDO
+pascal - status: FINALIZADO
+Golang
 Lua
 Ruby
-Golang
 Fortran
 java
 javascript
